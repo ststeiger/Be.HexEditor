@@ -3,3 +3,7 @@
 *.userprefs
 *.suo
 *.user
+/.vs/Be.HexEditor/v15/Server/sqlite3/storage.ide-wal
+/.vs/Be.HexEditor/v15/Server/sqlite3/storage.ide-shm
+/.vs/Be.HexEditor/v15/Server/sqlite3/storage.ide
+/.vs/Be.HexEditor/v15/Server/sqlite3/db.lock
